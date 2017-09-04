@@ -7,6 +7,7 @@ Data set downloaded from http://sighan.cs.uchicago.edu/bakeoff2005/
 3. cws.ipynb: Cleaned up notebook
 
 Model Accuracy Comparison
+
 | Training Set | Test Set  | Accuracy - MaxEnt  | Accuracy - RNN |
 | :----------: | :-------: | :----------------: | :------------: |
 | PKU          | PKU       | 0.94               | 0.91           |
